@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.csttires.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+www.csttires.com	TRUE	/	FALSE	1999999999	switcher_cf4c72c2a2a9fcf5e8777ba27b53303b	135
+www.csttires.com	TRUE	/	FALSE	1999999999	rci_switcher_expire_time	0
+www.csttires.com	TRUE	/	FALSE	1999999999	switch_session_cf4c72c2a2a9fcf5e8777ba27b53303b	1
+
